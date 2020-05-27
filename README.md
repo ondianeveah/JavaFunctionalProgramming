@@ -16,4 +16,4 @@
         // - functions inside another function
     // - The function returns another function as result.
         // - if function returns another function
-        // - Example: Callbacks (ling 17), Combinator Pattern.CustomerRegistrationValidation (line 14)
+        // - Example: Callbacks (line 17), Combinator Pattern.CustomerRegistrationValidation (line 14)
